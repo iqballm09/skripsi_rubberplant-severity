@@ -1,0 +1,16 @@
+jupyterlab
+opencv-python
+pandas
+numpy
+earthengine-api
+geemap
+seaborn
+matplotlib
+rasterio
+scikit-learn
+pygeos
+rioxarray
+shapely
+geopandas
+tensorflow
+scikit-image
